@@ -1,0 +1,7 @@
+{
+  "name": "WEB3BOT",
+  "type": "module",
+  "dependencies": {
+    "ethers": "^6.2.3"
+  }
+}
