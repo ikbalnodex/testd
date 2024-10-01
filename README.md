@@ -8,3 +8,7 @@ cd testd
 ```console
 npm install
 ```
+
+```console
+nano web3BotUpdate.js
+```
