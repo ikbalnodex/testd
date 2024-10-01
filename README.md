@@ -1,3 +1,5 @@
 # testd
 
-''git clone https://github.com/ikbalnodex/testd.git''
+```console
+git clone https://github.com/ikbalnodex/testd.git
+```
